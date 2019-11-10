@@ -1,0 +1,13 @@
+	Programmi jooksutamiseks on GUI.py, mis impordib mujalt funktsioone.
+	sudokuLaud.py sisaldab endas põhiliselt algoritmi ja sudoku laua kuvamist. Kuvatav laud võiks tegelikult olla veidike kenam. Praeguse seisuga on algoritm korras,/
+aga võiks olla selline, mis lahendab loogika abil. Siis saaks ta aru, kui talle on antud katkine sudoku, mida ei ole võimalik lahendada.
+	pildiltTuvastamine.py sisaldab pildi tükeldamist ja numbrite äratundmist. Kasutasin seal Tesseracti.
+
+ET PROGRAMM JOOKSEKS TULEB TÕMMATA
+a)tesseract
+b)pytesseract
+c)opencv
+d)numpy
+e)easygui
+
+Kui pildilt soovid sudokut importida siis kulub mingi 30 sek, et asju tuvastada.
